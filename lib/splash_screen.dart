@@ -69,7 +69,7 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
                         ]),
                       ),
                       child:
-                      Text("Developed by Capt Shahin",
+                      Text("Developed by Maj Shahin",
                         style:GoogleFonts.anton(fontSize: 12),
                         textAlign: TextAlign.center,
                       ),

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:mil_abbr/all_abbr.dart';
 import 'package:mil_abbr/amdt_abbr.dart';
+import 'package:mil_abbr/about.dart';
 import 'package:mil_abbr/quiz.dart';
 import 'package:mil_abbr/prac_abbr.dart';
 import 'package:mil_abbr/CustomAppBar.dart';
@@ -32,7 +33,8 @@ class _LandingPageState extends State<LandingPage> {
     HomePage(),
     AmdtAbbr(),
     PracAbbr(),
-    Quiz()
+    Quiz(),
+    About()
   ];
   @override
   Widget build(BuildContext context) {
@@ -59,6 +61,7 @@ class _LandingPageState extends State<LandingPage> {
               NavigationDestination(icon: Icon(Icons.change_circle_sharp), label: 'AMDT'),
               NavigationDestination(icon: Icon(Icons.engineering), label: 'PRAC'),
               NavigationDestination(icon: Icon(Icons.menu_book), label: 'QUIZ'),
+              NavigationDestination(icon: Icon(Icons.assistant_outlined), label: 'ABOUT'),
 
             ],
           )
