@@ -11,10 +11,15 @@ This application serves as an educational tool for military personnel, providing
 **Features**
 
 **Abbreviation Dictionary:** Browse and search through an extensive collection of military abbreviations with their full meanings
+
 **Learning Module:** Interactive learning interface to study military abbreviations systematically
+
 **Practice Mode:** Reinforce knowledge through practice sessions with instant feedback
+
 **Quiz Examination:** Test comprehension with timed quizzes and track performance over time
+
 **User-Friendly Interface:** Clean and intuitive design optimized for quick access and ease of use
+
 
 **Target Audience**
 
