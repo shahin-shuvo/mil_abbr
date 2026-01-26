@@ -21,6 +21,9 @@ This application serves as an educational tool for military personnel, providing
 This application is specifically designed for:
 
 Military officers
+
 Defense personnel
+
 Military academy students
+
 Anyone involved in military operations and communications
