@@ -8,7 +8,7 @@ A comprehensive Android application designed for military officers to learn, pra
 
 ### MobiScan: Key Screens
 
-| Login | Main Dashboard | Account Profile | Inventory Details |
+| Login | Main Dashboard | QUIZ | TIMEBOUND EXAM |
 | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/3d2a7cb1-e7f9-4e99-9bb6-44c8a0a5f481" width="200" /> | <img src="https://github.com/user-attachments/assets/461d7912-2ef4-40a6-86d1-86e6764d7215" width="200" /> | <img src="https://github.com/user-attachments/assets/15b77cbf-b371-434e-846c-be155d7ae5e7" width="200" /> | <img src="https://github.com/user-attachments/assets/244dc73c-ce6e-4186-9245-6d599ddfc0a5" width="200" /> |
 
